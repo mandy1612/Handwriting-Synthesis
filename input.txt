@@ -1,0 +1,3 @@
+Hemingway is The Handwriting Company robot that can mimic anyone style of handwriting All that Hemingways algorithm needs to mimic an individual handwriting is a sample of handwriting from that person Not only can Hemingway write faster than a human in one example completing the sample text provided in 2 minutes that took the human who provided it 15 its also surprisingly accurate When a company is trying to deliver a personal touch to a large group of individuals with 
+
+handwritten notes you can imagine how important this time savings could be

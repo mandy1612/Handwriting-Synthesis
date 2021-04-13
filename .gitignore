@@ -1,0 +1,5 @@
+# Compiled source #
+###################
+*.py
+*.h5p
+*.ipynb
